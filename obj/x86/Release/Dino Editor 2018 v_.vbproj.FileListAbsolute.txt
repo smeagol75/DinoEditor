@@ -1,0 +1,69 @@
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.exe
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.pdb
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.xml
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Add_team.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.New_Version.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Glove.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_boot.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Language_sel.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team_toDerby.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Search_player_by.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_Skin_colour.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal_Team.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Player.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Player_transfer.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Form1.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Resources.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.seleccionar_estadio.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_Nationality_for_Coach.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Coach.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_nationality.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team_tocoach.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Team_toReplace.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal_2.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_coach_type.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_other_league.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Selec_position.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.SplashScreen1.resources
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.vbproj.GenerateResource.Cache
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.exe
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.xml
+C:\Users\User\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.pdb
+G:\Barbas\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.exe
+G:\Barbas\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.xml
+G:\Barbas\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.pdb
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.exe
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.xml
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.pdb
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.exe
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.pdb
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\bin\Release\Dino Editor 2018 v_.xml
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Add_team.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.New_Version.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Glove.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_boot.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Language_sel.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team_toDerby.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Search_player_by.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_Skin_colour.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal_Team.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Player.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Player_transfer.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Form1.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Resources.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.seleccionar_estadio.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_Nationality_for_Coach.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Coach.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_nationality.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_team_tocoach.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_Team_toReplace.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_a_valid_dorsal_2.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_coach_type.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Select_other_league.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.Selec_position.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Db_Xbox_editor.SplashScreen1.resources
+D:\Users\Tienda2017\Dropbox\Db_Xbox_editor 2018\Db_Xbox_editor\obj\x86\Release\Dino Editor 2018 v_.vbproj.GenerateResource.Cache

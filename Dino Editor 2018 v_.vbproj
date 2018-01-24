@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52326B0E-732F-477B-BC0E-B7373DA28B35}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Db_Xbox_editor.My.MyApplication</StartupObject>
+    <RootNamespace>Db_Xbox_editor</RootNamespace>
+    <AssemblyName>Dino Editor 2018 v_</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Dino Editor 2018 v_.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Dino Editor 2018 v_.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tyrannosaurus_rex.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_team.Designer.vb">
+      <DependentUpon>Add_team.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_team.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Coach.vb" />
+    <Compile Include="Competition.vb" />
+    <Compile Include="converter.vb" />
+    <Compile Include="Ball.vb" />
+    <Compile Include="New_Version.Designer.vb">
+      <DependentUpon>New_Version.vb</DependentUpon>
+    </Compile>
+    <Compile Include="New_Version.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_Glove.Designer.vb">
+      <DependentUpon>Select_a_Glove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_Glove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_boot.Designer.vb">
+      <DependentUpon>Select_a_boot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_boot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gloves.vb" />
+    <Compile Include="Boots.vb" />
+    <Compile Include="Language_sel.Designer.vb">
+      <DependentUpon>Language_sel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Language_sel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selec_position.Designer.vb">
+      <DependentUpon>Selec_position.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selec_position.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stadium.vb" />
+    <Compile Include="Select_a_team_toDerby.Designer.vb">
+      <DependentUpon>Select_a_team_toDerby.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_team_toDerby.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Derby.vb" />
+    <Compile Include="Search_player_by.Designer.vb">
+      <DependentUpon>Search_player_by.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_player_by.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Skin_colour.Designer.vb">
+      <DependentUpon>Select_Skin_colour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_Skin_colour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Country.vb" />
+    <Compile Include="Select_a_valid_dorsal_Team.Designer.vb">
+      <DependentUpon>Select_a_valid_dorsal_Team.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_valid_dorsal_Team.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select a Player.Designer.vb">
+      <DependentUpon>Select a Player.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select a Player.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Player.vb" />
+    <Compile Include="Player_transfer.Designer.vb">
+      <DependentUpon>Player_transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Player_transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="seleccionar_estadio.Designer.vb">
+      <DependentUpon>seleccionar_estadio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seleccionar_estadio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select Nationality for Coach.Designer.vb">
+      <DependentUpon>Select Nationality for Coach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select Nationality for Coach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_Coach.Designer.vb">
+      <DependentUpon>Select_a_Coach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_Coach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select a team.Designer.vb">
+      <DependentUpon>Select a team.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select a team.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_nationality.Designer.vb">
+      <DependentUpon>Select_a_nationality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_nationality.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_team_tocoach.Designer.vb">
+      <DependentUpon>Select_a_team_tocoach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_team_tocoach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_Team_toReplace.Designer.vb">
+      <DependentUpon>Select_a_Team_toReplace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_Team_toReplace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_valid_dorsal.Designer.vb">
+      <DependentUpon>Select_a_valid_dorsal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_valid_dorsal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_a_valid_dorsal_2.Designer.vb">
+      <DependentUpon>Select_a_valid_dorsal_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_a_valid_dorsal_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_coach_type.Designer.vb">
+      <DependentUpon>Select_coach_type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_coach_type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_other_league.Designer.vb">
+      <DependentUpon>Select_other_league.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_other_league.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Other_league1.vb" />
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="swaps.vb" />
+    <Compile Include="Tactics.vb" />
+    <Compile Include="Team.vb" />
+    <Compile Include="zlib1.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add_team.resx">
+      <DependentUpon>Add_team.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Version.resx">
+      <DependentUpon>New_Version.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_Glove.resx">
+      <DependentUpon>Select_a_Glove.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_boot.resx">
+      <DependentUpon>Select_a_boot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language_sel.resx">
+      <DependentUpon>Language_sel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_team_toDerby.resx">
+      <DependentUpon>Select_a_team_toDerby.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_player_by.resx">
+      <DependentUpon>Search_player_by.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_Skin_colour.resx">
+      <DependentUpon>Select_Skin_colour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_valid_dorsal_Team.resx">
+      <DependentUpon>Select_a_valid_dorsal_Team.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select a Player.resx">
+      <DependentUpon>Select a Player.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Player_transfer.resx">
+      <DependentUpon>Player_transfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seleccionar_estadio.resx">
+      <DependentUpon>seleccionar_estadio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select Nationality for Coach.resx">
+      <DependentUpon>Select Nationality for Coach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_Coach.resx">
+      <DependentUpon>Select_a_Coach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select a team.resx">
+      <DependentUpon>Select a team.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_nationality.resx">
+      <DependentUpon>Select_a_nationality.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_team_tocoach.resx">
+      <DependentUpon>Select_a_team_tocoach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_Team_toReplace.resx">
+      <DependentUpon>Select_a_Team_toReplace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_valid_dorsal.resx">
+      <DependentUpon>Select_a_valid_dorsal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_a_valid_dorsal_2.resx">
+      <DependentUpon>Select_a_valid_dorsal_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_coach_type.resx">
+      <DependentUpon>Select_coach_type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_other_league.resx">
+      <DependentUpon>Select_other_league.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selec_position.resx">
+      <DependentUpon>Selec_position.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\PlayerAppareanceBlock" />
+    <None Include="Resources\Player_fake_xb.u" />
+    <None Include="Resources\National.u" />
+    <None Include="Resources\Normal.u" />
+    <None Include="Resources\Player_fake.u" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nacionalidades.txt" />
+    <None Include="Resources\1.bmp" />
+    <None Include="Resources\01.png" />
+    <None Include="Resources\02.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\06.png" />
+    <None Include="Resources\7.png" />
+    <Content Include="tyrannosaurus_rex.ico" />
+    <None Include="Resources\1388969677_dialog-apply.png" />
+    <None Include="Resources\1389311743_search_user.png" />
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

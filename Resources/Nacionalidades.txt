@@ -1,0 +1,185 @@
+260;Others;OTH;1376;Free Nationality;
+191;ALBANIA;ALB;1165;Albanian;_alb
+192;ANDORRA;AND;1166;Andorran;_and
+193;ARMENIA;ARM;1167;Armenian;_arm
+194;AUSTRIA;AUT;21;Austrian;_aut
+195;AZERBAIJAN;AZE;1168;Azeri;_aze
+196;BELARUS;BLR;1169;Belarusian;_blr
+197;BELGIUM;BEL;9;Belgian;_bel
+198;BOSNIA AND HERZEGOVINA;BIH;1170;Bosnian;_bih
+199;BULGARIA;BGR;27;Bulgarian;_bul
+200;CROATIA;HRV;24;Croatian;_cro
+201;CYPRUS;CYP;1171;Cypriot;_cyp
+202;CZECH REPUBLIC;CZE;13;Czech;_cze
+203;DENMARK;DNK;15;Danish;_den
+204;ENGLAND;ENG;5;English;_eng
+205;ESTONIA;EST;1172;Estonian;_est
+206;FAROE ISLANDS;FRO;1173;Faroese;_fro
+207;FINLAND;FIN;18;Finnish;_fin
+208;FRANCE;FRA;8;French;_fra
+209;GEORGIA;GEO;1174;Georgian;_geo
+210;GERMANY;DEU;14;German;_ger
+211;GREECE;GRC;28;Greek;_gre
+212;HUNGARY;HUN;22;Hungarian;_hun
+213;ICELAND;ISL;1175;Icelander;_isl
+214;IRELAND;IRL;1;Irish;
+189;ISRAEL;ISR;1164;Israeli;_isr
+215;ITALY;ITA;12;Italian;_ita
+216;KAZAKHSTAN;KAZ;1176;Kazakh;_kaz
+311;KOSOVO;KSV;2510;;
+217;LATVIA;LVA;59;Latvian;_lva
+218;LIECHTENSTEIN;LIE;1177;Liechtensteinian;_lie
+219;LITHUANIA;LTU;1178;Lithuanian;_ltu
+220;LUXEMBOURG;LUX;1179;Luxembourger;_lux
+221;MACEDONIA;MKD;1180;Macedonian;_mkd
+222;MALTA;MLT;1181;Maltese;_mlt
+223;MOLDOVA;MDA;1182;Moldovan;_mda
+250;MONACO;MCO;1193;;
+304;MONTENEGRO;MTN;1551;Montenegrin;_mne
+224;NETHERLANDS;NLD;10;Dutch;_ned
+225;NORTHERN IRELAND;NIL;2;Northern Irish;_nir
+226;NORWAY;NOR;16;Norwegian;_nor
+227;POLAND;POL;19;Polish;_pol
+228;PORTUGAL;PRT;6;Portuguese;_por
+229;ROMANIA;ROU;26;Romanian;_rou
+230;RUSSIA;RUS;31;Russian;_rus
+231;SAN MARINO;SMR;1183;Sammarinese;_smr
+232;SCOTLAND;SCO;3;Scottish;_sco
+303;SERBIA;SER;1550;Serbian;_srb
+234;SLOVAKIA;SVK;20;Slovak;_svk
+235;SLOVENIA;SVN;23;Slovenian;_svn
+236;SPAIN;ESP;7;Spanish;_esp
+237;SWEDEN;SWE;17;Swedish;_swe
+238;SWITZERLAND;CHE;11;Swiss;_sui
+190;TURKEY;TUR;29;Turkish;_tur
+239;UKRAINE;UKR;30;Ukrainian;_ukr
+241;WALES;WAL;4;Welsh;_wal
+44;ALGERIA;DZA;1040;Algerian;_alg
+45;ANGOLA;AGO;1041;Angolan;_ang
+46;BENIN;BEN;1042;Beninese;_ben
+47;BOTSWANA;BWA;1043;Batswana;_bot
+48;BURKINA FASO;BFA;1044;Burkinabe;_bfa
+49;BURUNDI;BDI;1045;Burundian;_bdi
+50;CAMEROON;CMR;36;Cameroonian;_cmr
+51;CAPE VERDE;CPV;1046;Cape Verdean;_cpv
+52;CENTRAL AFRICAN REP.;CAF;1047;Central African;_cta
+53;CHAD;TCD;1048;Chadian;_cha
+98;CONGO;COG;1087;Congolese;_cgo
+55;CONGO DR;COD;1050;Congolese;_cgo
+56;CÔTE D'IVOIRE;CIV;1051;Ivorian;_civ
+58;EGYPT;EGY;34;Egyptian;_egy
+59;EQUATORIAL GUINEA;GNQ;1053;Equatorial Guinean;_eqg
+60;ERITREA;ERI;1054;Eritrean;_eri
+61;ETHIOPIA;ETH;1055;Ethiopian;_eth
+62;GABON;GAB;1056;Gabonese;_gab
+64;GHANA;GHA;1058;Ghanaian;_gha
+65;GUINEA;GIN;1059;Guinean;_gui
+66;GUINEA-BISSAU;GNB;1060;Guinean (Bissau);_gnb
+67;KENYA;KEN;1061;Kenyan;_ken
+69;LIBERIA;LBR;1063;Liberian;_lbr
+70;LIBYA;LBY;1064;Libyan;_lby
+71;MADAGASCAR;MDG;1065;Malagasy;_mad
+72;MALAWI;MWI;1066;Malawian;_mwi
+73;MALI;MLI;1067;Malian;_mli
+74;MAURITANIA;MRT;1068;Mauritanian;_mtn
+75;MAURITIUS;MUS;1069;Mauritian;_mri
+76;MOROCCO;MAR;32;Moroccan;_mar
+77;MOZAMBIQUE;MOZ;1070;Mozambican;_moz
+78;NAMIBIA;NAM;1071;Namibian;_nam
+79;NIGER;NER;1072;Nigerien;_nig
+80;NIGERIA;NGA;35;Nigerian;_nga
+63;REPUBLIC OF THE GAMBIA;GMB;1057;Gambian;_gam
+100;RÉUNION;REU;1089;;
+81;RWANDA;RWA;1073;Rwandan;_rwa
+83;SENEGAL;SEN;38;Senegalese;_sen
+85;SIERRA LEONE;SLE;1076;Sierra Leonean;_sle
+86;SOMALIA;SOM;1077;Somali;_som
+87;SOUTH AFRICA;ZAF;37;South African;_rsa
+312;SOUTH SUDAN;SSD;2509;;
+88;SUDAN;SDN;1078;Sudanese;_sud
+54;THE COMOROS;COM;1049;;
+91;TOGO;TGO;1081;Togolese;_tog
+92;TUNISIA;TUN;33;Tunisian;_tun
+93;UGANDA;UGA;1082;Ugandan;_uga
+94;ZAMBIA;ZMB;1083;Zambian;_zam
+95;ZIMBABWE;ZWE;1084;Zimbabwean;_zim
+104;ANTIGUA AND BARBUDA;ATG;1093;Antiguan/Barbudan;_atg
+105;ARUBA;ABW;1094;Aruban;_aru
+107;BARBADOS;BRB;1096;Barbadian;_brb
+109;BERMUDA;BMU;1098;Bermudian;_ber
+110;CANADA;CAN;1099;Canadian;_can
+112;COSTA RICA;CRI;42;Costa Rican;_crc
+113;CUBA;CUB;1101;Cuban;_cub
+140;CURAÇAO;CUW;1124;;
+115;DOMINICAN REPUBLIC;DOM;1103;Dominican (DR);_dom
+116;EL SALVADOR;SLV;1104;Salvadoran;_slv
+117;GRENADA;GRD;1105;Grenadian;_grn
+118;GUADELOUPE;GLP;1106;Guadeloupean;
+119;GUATEMALA;GTM;1107;Guatemalan;_gua
+159;GUYANA;GUY;1135;Guyanese;_guy
+120;HAITI;HTI;1108;Haitian;_hai
+121;HONDURAS;HND;43;Honduran;_hon
+122;JAMAICA;JAM;41;Jamaican;_jam
+123;MARTINIQUE;MTQ;1109;;
+124;MEXICO;MEX;40;Mexican;_mex
+125;MONTSERRAT;MSR;1110;Montserratian;_msr
+126;NETHERLANDS ANTILLES;ANT;1111;Dutch Antillean;_ant
+128;PANAMA;PAN;1113;Panamanian;_pan
+129;PUERTO RICO;PRI;1114;Puerto Rican;_pur
+310;SINT MAARTEN;SXM;2238;St. Lucian;_lca
+133;TRINIDAD AND TOBAGO;TTO;1118;Trinidadian/Tobagonian;_tri
+134;TURKS AND CAICOS IS.;TCA;1119;Turcs & Caicos Islander;_tca
+135;UNITED STATES;USA;39;Uruguayan;_uru
+144;ARGENTINA;ARG;50;Argentinian;_arg
+145;BOLIVIA;BOL;1128;Bolivian;_bol
+146;BRAZIL;BRA;45;Brazilian;_bra
+147;CHILE;CHL;47;Chilean;_chi
+148;COLOMBIA;COL;44;Colombian;_col
+149;ECUADOR;ECU;51;Ecuadorian;_ecu
+150;PARAGUAY;PRY;48;Paraguayan;_par
+151;PERU;PER;46;Peruvian;_per
+152;URUGUAY;URY;49;American;_usa
+153;VENEZUELA;VEN;1129;Venezuelan;_ven
+1;AFGHANISTAN;AFG;1001;Afghan;_afg
+162;AUSTRALIA;AUS;57;Australian;_aus
+2;BAHRAIN;BHR;1002;Bahraini;_bhr
+3;BANGLADESH;BGD;1003;Bangladeshi;_ban
+7;CHINA;CHN;54;Chinese;_chn
+9;INDIA;IND;1008;Indian;_ind
+10;INDONESIA;IDN;1009;Indonesian;_idn
+11;IRAN;IRN;55;Iranian;_irn
+12;IRAQ;IRQ;1010;Iraqi;_irq
+13;JAPAN;JPN;52;Japanese;_jpn
+14;JORDAN;JOR;1011;Jordanian;_jor
+17;KUWAIT;KWT;1013;Kuwaiti;_kuw
+40;KYRGYZ REPUBLIC;KGZ;1035;Kyrgyz;_kgz
+18;LAOS;LAO;1014;Lao;_lao
+19;LEBANON;LBN;1015;Lebanese;_lib
+21;MALAYSIA;MYS;1017;Malaysian;_mas
+22;MALDIVES;MDV;1018;Maldivian;_mdv
+15;NORTH KOREA;PRK;1012;;
+26;OMAN;OMN;1022;Omani;_oma
+27;PAKISTAN;PAK;1023;Pakistani;_pak
+28;PALESTINE;PSE;1024;Palestinian;_ple
+29;PHILIPPINES;PHL;1025;Filipino;_phi
+30;QATAR;QAT;1026;Qatari;_qat
+31;SAUDI ARABIA;SAU;56;Saudi;_ksa
+32;SINGAPORE;SGP;1027;Singaporean;_sin
+16;SOUTH KOREA;KOR;53;;
+33;SRI LANKA;LKA;1028;Sri Lankan;_sri
+34;SYRIA;SYR;1029;Syrian;_syr
+41;TAJIKISTAN;TJK;1036;Tajikistani;_tjk
+36;THAILAND;THA;1031;Thai;_tha
+42;TURKMENISTAN;TKM;1037;Turkmen;_tkm
+37;UAE;ARE;1032;;
+240;UZBEKISTAN;UZB;1184;Uzbek;_uzb
+38;VIETNAM;VNM;1033;Vietnamese;_vie
+164;FIJI;FJI;1139;Fijian;_fij
+165;NEW CALEDONIA;NCL;1140;New Caledonian;_ncl
+166;NEW ZEALAND;NZL;1141;New Zealander;_nzl
+167;PAPUA NEW GUINEA;PNG;1142;Papua New Guinean;_png
+168;SAMOA;WSM;1143;Samoan;_sam
+169;SOLOMON ISLANDS;SLB;1144;Solomon Islander;_sol
+170;TAHITI;TAH;1145;Tahitian;_tah
+138;FRENCH GUIANA;GUF;;;
+298;TAIWAN;TWN;;;
